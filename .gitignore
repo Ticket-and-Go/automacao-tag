@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+
+# relatorio da execuçao dos teste
+cypress/results
