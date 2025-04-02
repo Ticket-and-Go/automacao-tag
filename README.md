@@ -1,4 +1,4 @@
-# Desafio PIC PAY
+# Projeto automação e2e e api da tag
 
 Este projeto utiliza o Cypress para testes automatizados e mochawesome para geração de relatórios.
 
@@ -15,8 +15,8 @@ ________________________________________________________________________________
 
 1 Clone o repositório:
 ```
-git clone https://github.com/andersonishii/desafioPicpay.git
-cd desafioPicpay
+git clone https://github.com/Ticket-and-Go/automacao-tag
+cd automacao-tag
 ```
 
 2 Instale as dependências:
